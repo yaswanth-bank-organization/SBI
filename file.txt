@@ -1,0 +1,2 @@
+hi i am creating the file for knowing merge command and diff commands
+and also want to know the cherry-pick command
