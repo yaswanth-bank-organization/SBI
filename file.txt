@@ -2,4 +2,5 @@ hi i am creating the file for knowing merge command and diff commands
 and also want to know the cherry-pick command
 i am at student branch
 now i am at master branch i want to display in student branch
+i am to merage in to master branch
 
